@@ -13,6 +13,7 @@ I'm Lemres, a dumb 16 year old wannabe Developer who programms most projects in 
 <img align="left" alt="C" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
 <img align="left" alt="CS" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
 <img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/>
+<img align="left" alt="Go" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
 
 </br>
 
