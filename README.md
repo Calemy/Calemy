@@ -1,16 +1,41 @@
-### Hi there 👋
+## About me
+Oh my god they were roommates \
+I'm Lemres, a dumb 16 year old wannabe Developer who programms most projects in ✨JavaScript✨
 
-<!--
-**Mxnuuel/Mxnuuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
 
-Here are some ideas to get you started:
+### Languages I'm good at:
+<img align="left" alt="VSCode" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I suck at:
+
+<img align="left" alt="C" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
+<img align="left" alt="CS" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
+<img align="left" alt="Java" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/>
+
+</br>
+
+### Coding with:
+
+<img align="left" alt="VSCode" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+<img align="left" alt="VS" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/> <br/>
+
+### Integrating:
+<img align="left" alt="discord" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
+<img align="left" alt="redis" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//redis.svg"/>
+<img align="left" alt="mysql" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//mariadb.png"/>
+<img align="left" alt="nginx" width="30px" height="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//nginx.svg"/> <br/>
+
+
+## Contact
+Discord: Lemres#0001 \
+Twitter: [@SomehowNanoo](https://twitter.com/somehownanoo)
+
+## Published Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuuel&show_icons=true&theme=radical) <br/>
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuuel&theme=radical)
+
+## My very amazing Discord
+![Discord Banner 2](https://discordapp.com/api/guilds/633338217331949595/widget.png?style=banner2)
