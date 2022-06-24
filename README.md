@@ -1,6 +1,6 @@
 ## About me
 Oh my god they were roommates \
-I'm Lemres, a dumb 16 year old wannabe Developer who programms most projects in ✨JavaScript✨
+I'm Lemres, a dumb wannabe Developer who programms most projects in ✨JavaScript✨
 
 ## Languages and Tools
 
@@ -35,8 +35,8 @@ Twitter: [@SomehowNanoo](https://twitter.com/somehownanoo)
 
 ## Published Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuuel&show_icons=true&theme=radical) <br/>
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuuel&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calemy&show_icons=true&theme=radical) <br/>
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calemy&theme=radical)
 
 ## My very amazing Discord
 ![Discord Banner 2](https://discordapp.com/api/guilds/633338217331949595/widget.png?style=banner2)
