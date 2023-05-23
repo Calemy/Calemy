@@ -18,9 +18,6 @@ I'm Lemres, a dumb wannabe Developer who programms most projects in ✨JavaScrip
 
 </br>
 
-![vs2019]()
-![visual-studio-code]()
-
 ### Coding with:
 
 <img align="left" alt="VSCode" width="30px" height="30px" src="https://github.com/Calemy/Calemy/assets/45440100/50498a0e-f25d-4e83-b7da-7b4046aa8141"/>
